@@ -1,0 +1,2 @@
+E:\迅雷下载\gdal-1600\bin\gdal_rasterize.exe -init 0 -burn 1 -burn 1 -burn 1 -ot Byte -tr 0.000021457672119140625 0.000021457672119140625 -l Export_Output_road_train_buf F:\road_tile\Export_Output_road_train_buf.shp F:\road_tile\Export_Output_road_train_buf.tif
+程序所在路径                                  中间参数                                      数据转化间隔                                          输入矢量数据名称             路径                                           输出栅格路径及名称                             
